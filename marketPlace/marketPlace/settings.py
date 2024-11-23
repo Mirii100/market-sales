@@ -36,6 +36,7 @@ INSTALLED_APPS = [
     'market',
     'items',
     'dashboard',
+    'conversation',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
